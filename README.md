@@ -1,7 +1,7 @@
 # BIG-MART-SALES-PREDICTION
 A project to learn how to apply machine learning algorithms to predict the outlet productoin sales.
 
-#Data sets
+Data sets
 
 1. Train.csv 
 2. Test.csv
